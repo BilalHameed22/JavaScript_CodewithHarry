@@ -1,0 +1,26 @@
+//chapter 1 question 1
+let a="Bilal"
+let b=6
+console.log(a+b)
+//chapter 1 question 2
+//console.log(typeof (a+b));
+//chapter 1 question 3
+
+const a1 = {
+  name: "Bilal",
+  section: 1,
+  isprinciple:false
+}
+console.log(a1)
+a1['freind'] = 'shubmum'
+a1['name'] = 'Ali'
+console.log(a1)
+const dict=
+  {
+    appriciate: "to value or regard highly",
+    consider: "deem to be",
+    minute: "infinitely or immeasurably small",
+    accord: "concurrence of opinion",
+    evident:"clearly revealed to the mind or the senses or judgment"
+  }
+console.log(dict['evident'])
